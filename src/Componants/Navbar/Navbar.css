@@ -24,6 +24,7 @@
     gap: 50px;
     color: #626262;
     font-size: 20px;
+    font-weight: 500;
 }
 
 .nav-menu li {
@@ -40,7 +41,7 @@
     width: 80%;
     height: 3px;
     border-radius: 10px;
-    background: red;
+    background: #FF4141;
 }
 
 .nav-login-cart {
@@ -53,11 +54,11 @@
     width: 157px;
     height: 58px;
     outline: none;
+    border: 1px solid #7a7a7a;
     border-radius: 75px;
-    border: 1px solid orange;
     font-size: 20px;
     font-weight: 500;
-    background: white;
+    background: #515151;
     cursor: pointer;
 }
 

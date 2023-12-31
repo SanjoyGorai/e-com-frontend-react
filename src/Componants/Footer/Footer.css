@@ -34,7 +34,7 @@
     padding: 10px;
     padding-bottom: 6px;
     background: #fbfbfb;
-    border: 1px solid red;
+    border: 1px solid #ebebeb;
 }
 .footer-copyright{
     display: flex;
